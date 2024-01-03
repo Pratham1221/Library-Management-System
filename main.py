@@ -36,6 +36,7 @@ def addbook():
 def issue():
     # issuing a book to a student
     # ISSUE table
+    # does not check if books no longer available
     name = input("Enter Name:")
     Class = input("Enter class:")
     bcode = input("Enter book code:")
