@@ -1,7 +1,7 @@
 # Library-Management-System
 - Created a library management system for the school annual coding challenge.
-- Has features like add,issue,submit,remove books and can be can be used to keep in track the inventory of books in the library.
-- All the data is stored and manipulated via SQl commands using a library in Python call SQl connector.
+- Has features like add, issue, submit, remove books and can be used to keep in track the inventory of books in the library.
+- All the data is stored and manipulated via SQl commands using a library in Python called SQl connector.
 
 ## Before Running
 Please make sure you have all of the following before running the code:
